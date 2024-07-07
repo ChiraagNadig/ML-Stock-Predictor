@@ -21,6 +21,8 @@ ML output for GOOG stock:
 <img width="850" alt="Screenshot 2024-07-07 at 12 52 12 PM" src="https://github.com/ChiraagNadig/ML-Stock-Predictor/assets/79017920/57c5bba2-a53f-4dd0-991d-e22337a4108f">
 
 
+
+
 ML output for AAPL stock:
 <img width="842" alt="Screenshot 2024-07-07 at 1 32 12 PM" src="https://github.com/ChiraagNadig/ML-Stock-Predictor/assets/79017920/d9a5af53-d118-47f9-b230-60eb65a0ef7e">
 
