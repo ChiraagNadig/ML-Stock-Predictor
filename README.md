@@ -18,7 +18,9 @@ The 50-day, 100-day, and 200-day moving average are used by ML model for predict
 ML output (Graph image showing Original price vs Predicted price of stock) takes longer time to load, hence it was not shown in the demo video
 
 ML output for GOOG stock:
-<img width="1440" alt="Screenshot 2024-07-07 at 12 52 12 PM" src="https://github.com/ChiraagNadig/ML-Stock-Predictor/assets/79017920/f3ea1dd0-0068-402a-ab30-a27b797a05e8">
+<img width="850" alt="Screenshot 2024-07-07 at 12 52 12 PM" src="https://github.com/ChiraagNadig/ML-Stock-Predictor/assets/79017920/57c5bba2-a53f-4dd0-991d-e22337a4108f">
+
 
 ML output for AAPL stock:
-<img width="1440" alt="Screenshot 2024-07-07 at 1 32 12 PM" src="https://github.com/ChiraagNadig/ML-Stock-Predictor/assets/79017920/eeab974d-3d0b-4075-ae87-37be8b8a8204">
+<img width="842" alt="Screenshot 2024-07-07 at 1 32 12 PM" src="https://github.com/ChiraagNadig/ML-Stock-Predictor/assets/79017920/d9a5af53-d118-47f9-b230-60eb65a0ef7e">
+
